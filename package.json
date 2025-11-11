@@ -1,0 +1,29 @@
+{
+  "name": "odin-cv",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Micah-Pirikisi/Odin-CV#readme",
+  "bugs": {
+    "url": "https://github.com/Micah-Pirikisi/Odin-CV/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Micah-Pirikisi/Odin-CV.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.2"
+  }
+}
